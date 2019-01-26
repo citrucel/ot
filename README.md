@@ -1,2 +1,2 @@
 # ot
-Various Matlab code pertaining to Discrete Optimal Transport
+Various Matlab code Related to Discrete Optimal Transport
